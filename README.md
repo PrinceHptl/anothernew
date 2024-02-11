@@ -1,1 +1,0 @@
-﻿#This is the project to explore git and and github and do some operations
